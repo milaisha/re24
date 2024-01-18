@@ -28,8 +28,6 @@ function App() {
       </BrowserRouter>
      
     </div>
-  );
-}
+  )}
 
-export default App;
-
+export default App

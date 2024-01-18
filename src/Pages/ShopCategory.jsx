@@ -17,7 +17,7 @@ function ShopCategory(props) {
        </p>
      </div>
       <div className='shopcategory-sort'>
-        Sort by <img src={dropdown_icon} alt='' /> Coming soon!
+        Sort by <img src={dropdown_icon} alt='' /> Collection Coming soon!
       </div>
       <div className='shopcategory-products'>
         {all_product.map ((item,i)=> {
